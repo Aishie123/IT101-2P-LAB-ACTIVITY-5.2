@@ -1,0 +1,5 @@
+     ---Total Number of Pieces Sold---
+Fruits   January  February   March   April   May
+Apple    34       108        99      150     123
+Mango    234      186        80      50      343
+Banana   734      218        69      350     693
